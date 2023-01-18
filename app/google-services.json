@@ -1,0 +1,121 @@
+{
+  "project_info": {
+    "project_number": "832929408249",
+    "project_id": "football-tv-7ff16",
+    "storage_bucket": "football-tv-7ff16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832929408249:android:6a2425997b83a7efb3ae28",
+        "android_client_info": {
+          "package_name": "com.ide.footballmatch.livetv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832929408249-fs0n154d1giru09gs1i1espurp4im0le.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ide.footballmatch.livetv",
+            "certificate_hash": "f439e5aab77c3333c5e03277b02539f76e60a025"
+          }
+        },
+        {
+          "client_id": "832929408249-vgn4gc5ml02e49jlthrjabqpv0t1g3bu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwy0cXXxPasO51MXPBQo__Y8X2LXuoO40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832929408249-vgn4gc5ml02e49jlthrjabqpv0t1g3bu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832929408249:android:4502c5dd47e202c8b3ae28",
+        "android_client_info": {
+          "package_name": "com.ide.footballtv.livescores"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832929408249-himvo2hg5058lm2tn17p8lckf81cngvp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ide.footballtv.livescores",
+            "certificate_hash": "f439e5aab77c3333c5e03277b02539f76e60a025"
+          }
+        },
+        {
+          "client_id": "832929408249-vgn4gc5ml02e49jlthrjabqpv0t1g3bu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwy0cXXxPasO51MXPBQo__Y8X2LXuoO40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832929408249-vgn4gc5ml02e49jlthrjabqpv0t1g3bu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832929408249:android:2645a59695addd5cb3ae28",
+        "android_client_info": {
+          "package_name": "com.ide.livefootball.onlinescore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832929408249-i92sk5h30gtui20cdfom4oltuuukpkuv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ide.livefootball.onlinescore",
+            "certificate_hash": "f439e5aab77c3333c5e03277b02539f76e60a025"
+          }
+        },
+        {
+          "client_id": "832929408249-vgn4gc5ml02e49jlthrjabqpv0t1g3bu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwy0cXXxPasO51MXPBQo__Y8X2LXuoO40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832929408249-vgn4gc5ml02e49jlthrjabqpv0t1g3bu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

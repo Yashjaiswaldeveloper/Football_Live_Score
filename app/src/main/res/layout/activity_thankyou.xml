@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ThankyouActivity">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/native_ads">
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_marginTop="@dimen/_150sdp"
+            android:layout_height="wrap_content">
+<!--            <LinearLayout-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="300dp">-->
+<!--                <LinearLayout-->
+<!--                    android:layout_margin="30dp"-->
+<!--                    android:orientation="vertical"-->
+<!--                    android:id="@+id/native_ads"-->
+<!--                    android:background="@drawable/people"-->
+<!--                    android:layout_width="match_parent"-->
+<!--                    android:layout_height="260dp">-->
+<!--                </LinearLayout>-->
+
+<!--            </LinearLayout>-->
+            <ImageView
+                android:scaleType="fitXY"
+                android:src="@drawable/thank_img"
+                android:layout_gravity="center_horizontal"
+                android:layout_width="100dp"
+                android:layout_height="100dp">
+            </ImageView>
+            <TextView
+                style="@style/Texting"
+                android:textSize="22dp"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:text="ThankYou "
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+            </TextView>
+
+        </LinearLayout>
+    </ScrollView>
+
+    <RelativeLayout
+        android:id="@+id/native_ads"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_60sdp"
+        android:layout_alignParentBottom="true"
+        android:orientation="vertical">
+
+    </RelativeLayout>
+</RelativeLayout>
